@@ -7,7 +7,7 @@ class Process {
 };
 
 void fcfs(vector<Process> &proc) {
-    sort()
+    
 }
 
 int main() {
